@@ -4,7 +4,7 @@
 
 1. [Deployed-Application-Link](#Deployed-Application-Link)
 2. [Description](#Description)
-3. [Usage](#Usage
+3. [Usage](#Usage)
 4. [Credits](#Credits)
 5. [Technologies-Used](#Technologies-Used)
 6. [Questions](#Questions)
