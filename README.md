@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-1. [Deployed Application Link](#DeployedApplicationLink)
+1. [Deployed Application Link](#Deployed Application Link)
 2. [Description](#Description)
-3. [Usage (user story)](#Usage)
+3. [Usage (user story)](#Usage (user story))
 4. [Credits](#Credits)
-5. [Technologies Used](#TechnologiesUsed)
+5. [Technologies Used](#Technologies Used)
 6. [Questions](#Questions)
 
 
