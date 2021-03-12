@@ -2,21 +2,21 @@
 
 ## Table of Contents
 
-1. [Deployed Application Link](#Deployed Application Link)
+1. [Deployed-Application-Link](#Deployed-Application-Link)
 2. [Description](#Description)
-3. [Usage (user story)](#Usage (user story))
+3. [Usage](#Usage
 4. [Credits](#Credits)
-5. [Technologies Used](#Technologies Used)
+5. [Technologies-Used](#Technologies-Used)
 6. [Questions](#Questions)
 
 
-## Deployed Application Link
+## Deployed-Application-Link
 [TheNotebookTaker](https://www.example.com)
 
 ## Description
 - This application is creating or deleting notes with using node.js, and express.
 
-## Usage (user story)
+## Usage
 1. WHEN you open the Note Taker
 - THEN you are presented with a landing page with a link to a notes page
 2. WHEN you click on the link to the notes page
@@ -33,7 +33,7 @@
 ## Credits
 - The client side code was given by Trilogy Education Services and the backend code was created by Tolga Secme.
 
-## Technologies Used
+## Technologies-Used
 1. Express
 2. Node.js
 3. Js
