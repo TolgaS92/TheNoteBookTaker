@@ -11,7 +11,7 @@
 
 
 ## Deployed-Application-Link
-[TheNotebookTaker](https://www.example.com)
+[TheNotebookTaker](https://sheltered-island-38155.herokuapp.com/)
 
 ## Description
 - This application is creating or deleting notes with using node.js, and express.
@@ -32,6 +32,10 @@
 
 ## Credits
 - The client side code was given by Trilogy Education Services and the backend code was created by Tolga Secme.
+
+## Screenshots
+- ![Home](./public/assets/images/screenshots/home.jpg)
+- ![Notes](./public/assets/images/screenshots/notes.jpg)
 
 ## Technologies-Used
 1. Express
