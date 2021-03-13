@@ -6,8 +6,9 @@
 2. [Description](#Description)
 3. [Usage](#Usage)
 4. [Credits](#Credits)
-5. [Technologies-Used](#Technologies-Used)
-6. [Questions](#Questions)
+5. [Screenshots](#Screenshots)
+6. [Technologies-Used](#Technologies-Used)
+7. [Questions](#Questions)
 
 
 ## Deployed-Application-Link
