@@ -41,7 +41,7 @@ module.exports = (app) => {
             //encoding: It is a string value that specifies the encoding of the file. The default value is ‘utf8’.
             //mode: It is an integer value that specifies the file mode. The default value is 0o666.
             //flag: It is a string value that specifies the flag used while writing to the file. The default value is ‘w’.
-            fs.writeFile("./db/db.json", JSON.stringify(givenNote, null, 4), function (err) {
+            fs.writeFile("./db/db.json", JSON.stringify(givenNote), (err) => {
                 if (err)
                     console.log(err);
                 else {
@@ -65,7 +65,7 @@ module.exports = (app) => {
             data = data.filter(text => text.id != id);
 
             //empty {} file will be written on data which is requested by user..
-            fs.writeFile("./db/db.json", JSON.stringify(data, null, 4), function (err) {
+            fs.writeFile("./db/db.json", JSON.stringify(data), (err) => {
                 if (err)
                     console.log(err);
                 else {
