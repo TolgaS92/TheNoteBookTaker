@@ -18,18 +18,7 @@
 - This application is creating or deleting notes with using node.js, and express.
 
 ## Usage
-1. WHEN you open the Note Taker
-- THEN you are presented with a landing page with a link to a notes page
-2. WHEN you click on the link to the notes page
-- THEN you are presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-3. WHEN you enter a new note title and the note’s text
-- THEN a Save icon appears in the navigation at the top of the page
-4. WHEN you click on the Save icon
-- THEN the new note i have entered is saved and appears in the left-hand column with the other existing notes
-5. WHEN you click on an existing note in the list in the left-hand column
-- THEN that note appears in the right-hand column
-6. WHEN you click on the Write icon in the navigation at the top of the page
-- THEN you are presented with empty fields to enter a new note title and the note’s text in the right-hand column
+- You can click on the link given [TheNotebookTaker](https://sheltered-island-38155.herokuapp.com/), and start saving notes or deleting them.
 
 ## Credits
 - The client side code was given by Trilogy Education Services and the backend code was created by Tolga Secme.
